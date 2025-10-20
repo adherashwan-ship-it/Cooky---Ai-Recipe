@@ -1,0 +1,8 @@
+{
+  "name": "COOKY: AI Recipe Assistant",
+  "description": "An AI-powered recipe assistant that helps you create delicious meals from the ingredients you have on hand. Reduce food waste and discover new culinary creations with COOKY.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711363850667",
+    "project_id": "cookie-cba48",
+    "storage_bucket": "cookie-cba48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711363850667:android:62f180916748457c2962ee",
+        "android_client_info": {
+          "package_name": "com.dev.cookie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrEJayZ-a1xFnp0YRVV-P4I_NdNY43mgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
